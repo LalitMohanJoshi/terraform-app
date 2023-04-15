@@ -5,7 +5,7 @@ It contain the basic demo to setup virtual cloud & associate service using terra
 
 ## Installation
 
-Use the package manager [NPM](https://www.npmjs.com/) to install the Application.
+Use the package manager [Terraform](https://releases.hashicorp.com/terraform/1.4.5/terraform_1.4.5_windows_386.zip) to install the Application.
 
 ```bash
 # logic tfc 
